@@ -1,0 +1,3 @@
+The total kinetic energy for a cylinder that rolls without slipping is the sum of its [[Rotational kinetic energy]] and the [[Kinetic energy definition|kinetic energy]] of its center of mass.
+
+#physics
