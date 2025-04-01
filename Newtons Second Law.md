@@ -1,0 +1,1 @@
+Formally, $\displaystyle \sum{F}=\frac{d\vec{p}}{dt}$. However, we typically introduce it as $\displaystyle \sum{\vec{F}}=m\vec{a}$ or $\vec{a}_{sys}=\frac{\sum{\vec{F}}}{m_{sys}}$ by assuming mass remains constant, such that $\frac{d\vec{p}}{dt}=m\frac{d\vec{v}}{dt}=m\vec{a}$.

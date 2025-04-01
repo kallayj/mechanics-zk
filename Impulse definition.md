@@ -1,0 +1,1 @@
+$\vec{J} \equiv \Delta{\vec{p}}$

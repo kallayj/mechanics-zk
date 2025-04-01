@@ -1,0 +1,3 @@
+In a collision of a particle with an obstacle and subsequent rebound, such as the [[Ball-Wall Scenario]], the change in sign of the particle must be considered to get the correct [[Impulse definition|impulse]]. If the post-collision speed is, for example, half the initial speed, it is easy to mistake the impulse for half the initial momentum. The correct impulse is $m(v_{\text{final}} - v_{\text{initial}})=(\frac{1}{2}v_0-(-v_0))=\frac{3}{2}mv_0$ (note the opposite signs of the initial and final velocities).
+
+#pitfall

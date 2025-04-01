@@ -1,0 +1,1 @@
+In a perfectly inelastic collision the colliding bodies stick together and maximum mechanical energy is lost.
