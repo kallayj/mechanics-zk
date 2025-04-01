@@ -1,0 +1,1 @@
+$E = K + U$, and because of the [[Kinetic energy in circular orbit]], $E = U + (-\frac{1}{2}U)=\frac{1}{2}U$.
