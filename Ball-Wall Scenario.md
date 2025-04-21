@@ -3,3 +3,5 @@ A ball of mass $m_0$ travels at speed $v_0$ straight into a wall and bounces off
 Solve by using the [[Impulse-Momentum Theorem]], making sure to avoid the [[Collision rebound pitfall]].
 
 Limit cases: (TO DO)
+
+#kata
